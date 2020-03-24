@@ -1,3 +1,9 @@
+/* center on page, to make it more appealing */
+body {
+    width: 35%;
+    margin: auto;
+}
+
 .avatar {
     border-radius: 50%;
     height: 100px;
